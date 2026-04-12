@@ -15,3 +15,10 @@ Each solution is optimized to pass all test cases within the required time and m
   1.Primary Language: C++ / C <br>
   2.Tools: Git, VS Code <br>
   3.Concepts: Arrays, Strings, Linked Lists, Trees, Graphs, Dynamic Programming, Greedy Algorithms, etc. <br>
+
+📝 Author<br>
+
+  Name: Md. Tusher Hossen(Efti)<br>
+  Department: CSE<br>
+  University: DIU<br>
+
