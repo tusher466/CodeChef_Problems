@@ -20,5 +20,5 @@ Each solution is optimized to pass all test cases within the required time and m
 
   Name: Md. Tusher Hossen(Efti)<br>
   Department: CSE<br>
-  University: DIU<br>
+  University: Daffodil International University<br>
 
